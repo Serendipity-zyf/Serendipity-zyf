@@ -9,7 +9,7 @@
 - 👀 I’m interested in Genshin Impact, league of legends, NLP...
 - 🌱 I’m currently learning NLP(Natrual Language Processing)
 - 💞️ I’m looking to collaborate on NLP(QA system...)
-- 📫 How to contact me -> email: ahhuer@163.com
+- 📫 How to contact me -> email: metazyf@gmail.com
 - 💻 Planning to work in MiHoYo
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
