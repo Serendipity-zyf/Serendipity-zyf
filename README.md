@@ -12,10 +12,8 @@
 - 📫 How to contact me -> email: metazyf@gmail.com
 - 💻 Planning to work in an ideal company...
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/Serendipity-zyf/Serendipity-zyf/main/assets/github-contribution-grid-snake.svg)
 
 🛠 常用的工具:
 
