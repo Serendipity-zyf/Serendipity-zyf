@@ -13,7 +13,7 @@
 - 💻 Planning to work in an ideal company...
 
 <!-- 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/Serendipity-zyf/Serendipity-zyf/main/assets/github-contribution-grid-snake.svg)
+![](./assets/github-contribution-grid-snake.svg)
 
 🛠 常用的工具:
 
