@@ -5,12 +5,12 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Serendipity-zyf&include_all_commits=true&count_private-true&custom_title=Serendipity-zyf'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 
-- 👋 Hi, I’m Zyf，a novice graduate student anxious about his graduation project
-- 👀 I’m interested in Genshin Impact, league of legends, NLP...
+- 👋 Hi, I’m Zyf，a AIGC and game lover...
+- 👀 I’m interested in Genshin Impact, Aoe2DE, NLP, CV and AIGC...
 - 🌱 I’m currently learning NLP(Natrual Language Processing)
-- 💞️ I’m looking to collaborate on NLP(QA system...)
+- 💞️ I’m looking to collaborate on multimodal now.
 - 📫 How to contact me -> email: metazyf@gmail.com
-- 💻 Planning to work in MiHoYo
+- 💻 Planning to work in an ideal company...
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
